@@ -1,0 +1,4 @@
+﻿  Proiect_Rute.cpp
+G:\Facultate\CSIE\Licenta IE\An II\semestrul 1\poo - programare orientata obiect\Proiect\Proiect_Rute\Proiect_Rute\Proiect_Rute.cpp(283,25): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+G:\Facultate\CSIE\Licenta IE\An II\semestrul 1\poo - programare orientata obiect\Proiect\Proiect_Rute\Proiect_Rute\Proiect_Rute.cpp(323,25): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Proiect_Rute.vcxproj -> G:\Facultate\CSIE\Licenta IE\An II\semestrul 1\poo - programare orientata obiect\Proiect\Proiect_Rute\Debug\Proiect_Rute.exe
